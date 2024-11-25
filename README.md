@@ -89,3 +89,9 @@ The server will listen for queries from the frontend, process them through the s
 
 ## Example Files
 The example documents in the files/ folder are sourced from the C++ documentation (must unzip). These XML files serve as a reference for testing and exploring the search engine's capabilities.
+
+## Reference
+
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+<img src="imgs/tf.jpg">
