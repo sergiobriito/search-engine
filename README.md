@@ -88,4 +88,4 @@ The server will listen for queries from the frontend, process them through the s
 4. **Use the frontend to query the server and retrieve ranked documents.**
 
 ## Example Files
-The example documents in the files/ folder are sourced from the C++ documentation. These XML files serve as a reference for testing and exploring the search engine's capabilities.
+The example documents in the files/ folder are sourced from the C++ documentation (must unzip). These XML files serve as a reference for testing and exploring the search engine's capabilities.
